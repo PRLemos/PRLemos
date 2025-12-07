@@ -13,28 +13,18 @@
     </a>
   </div>
 
-  <!-- Ícones todos em uma linha com efeito neon -->
+  <!-- Ícones numa linha com efeito neon -->
   <div align="center" valign="top"><br>
-    <!-- SQL -->
-    <img align="center" alt="SQL Server" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" style="filter: drop-shadow(0 0 5px #00ffff);">
-    <!-- Python -->
-    <img align="center" alt="Python" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" style="filter: drop-shadow(0 0 5px #00ff00);">
-    <!-- Power BI (amarelo neon) -->
-    <img align="center" alt="Power BI" height="40" width="40" src="https://cdn.jsdelivr.net/npm/simple-icons@9/icons/powerbi.svg" style="filter: drop-shadow(0 0 5px #ffff00);">
-    <!-- Fabric (verde neon) -->
-    <img align="center" alt="Microsoft Fabric" height="40" width="40" src="https://cdn.jsdelivr.net/npm/simple-icons@9/icons/microsoft.svg" style="filter: drop-shadow(0 0 5px #00ff00);">
-    <!-- Looker (azul neon) -->
-    <img align="center" alt="Looker" height="40" width="40" src="https://cdn.jsdelivr.net/npm/simple-icons@9/icons/looker.svg" style="filter: drop-shadow(0 0 5px #00ffff);">
-    <!-- Tableau (branco com vermelho neon) -->
-    <img align="center" alt="Tableau" height="40" width="40" src="https://cdn.jsdelivr.net/npm/simple-icons@9/icons/tableau.svg" style="filter: drop-shadow(0 0 5px #ff0000) invert(100%); background-color:red; border-radius:5px;">
-    <!-- R -->
-    <img align="center" alt="R" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/r/r-original.svg" style="filter: drop-shadow(0 0 5px #00ffff);">
-    <!-- JavaScript -->
-    <img align="center" alt="JavaScript" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg" style="filter: drop-shadow(0 0 5px #ffff00);">
-    <!-- HTML -->
-    <img align="center" alt="HTML" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" style="filter: drop-shadow(0 0 5px #ff4500);">
-    <!-- CSS -->
-    <img align="center" alt="CSS" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" style="filter: drop-shadow(0 0 5px #00ffff);">
+    <img align="center" alt="SQL Server" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" style="filter: drop-shadow(0 0 8px #00ffff);">
+    <img align="center" alt="Python" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" style="filter: drop-shadow(0 0 8px #00ff00);">
+    <img align="center" alt="Power BI" height="40" width="40" src="https://cdn.jsdelivr.net/npm/simple-icons@9/icons/powerbi.svg" style="filter: drop-shadow(0 0 8px #ffff00);">
+    <img align="center" alt="Microsoft Fabric" height="40" width="40" src="https://cdn.jsdelivr.net/npm/simple-icons@9/icons/microsoft.svg" style="filter: drop-shadow(0 0 8px #00ff00);">
+    <img align="center" alt="Looker" height="40" width="40" src="https://cdn.jsdelivr.net/npm/simple-icons@9/icons/looker.svg" style="filter: drop-shadow(0 0 8px #00ffff);">
+    <img align="center" alt="Tableau" height="40" width="40" src="https://cdn.jsdelivr.net/npm/simple-icons@9/icons/tableau.svg" style="filter: drop-shadow(0 0 8px #ff0000) invert(100%); background-color:red; border-radius:5px;">
+    <img align="center" alt="R" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/r/r-original.svg" style="filter: drop-shadow(0 0 8px #00ffff);">
+    <img align="center" alt="JavaScript" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg" style="filter: drop-shadow(0 0 8px #ffff00);">
+    <img align="center" alt="HTML" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" style="filter: drop-shadow(0 0 8px #ff4500);">
+    <img align="center" alt="CSS" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" style="filter: drop-shadow(0 0 8px #00ffff);">
   </div>
 
   <!-- Redes sociais -->
@@ -46,8 +36,9 @@
   </div>
 
   <!-- Snake animation corrigida -->
-  <br>
-  ![Snake animation](https://github.com/danielbped/danielbped/blob/output/github-contribution-grid-snake.svg)
+  <div align="center"><br>
+    <img src="https://github.com/danielbped/danielbped/blob/output/github-contribution-grid-snake.svg" alt="Snake animation"/>
+  </div>
 
   <div align="center">
     <p>Feito com :heart: e JavaScript. 😎</p>
