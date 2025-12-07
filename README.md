@@ -13,28 +13,28 @@
     </a>
   </div>
 
-  <!-- Todos os ícones numa linha -->
+  <!-- Ícones todos em uma linha com efeito neon -->
   <div align="center" valign="top"><br>
     <!-- SQL -->
-    <img align="center" alt="SQL Server" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg">
+    <img align="center" alt="SQL Server" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" style="filter: drop-shadow(0 0 5px #00ffff);">
     <!-- Python -->
-    <img align="center" alt="Python" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">
-    <!-- Power BI em amarelo -->
-    <img align="center" alt="Power BI" height="30" width="40" src="https://cdn.jsdelivr.net/npm/simple-icons@9/icons/powerbi.svg" style="filter: invert(62%) sepia(92%) saturate(748%) hue-rotate(1deg) brightness(95%) contrast(90%);">
-    <!-- Fabric em verde -->
-    <img align="center" alt="Microsoft Fabric" height="30" width="40" src="https://cdn.jsdelivr.net/npm/simple-icons@9/icons/microsoft.svg" style="filter: invert(45%) sepia(98%) saturate(600%) hue-rotate(90deg) brightness(90%) contrast(90%);">
-    <!-- Looker em azul neon -->
-    <img align="center" alt="Looker" height="30" width="40" src="https://cdn.jsdelivr.net/npm/simple-icons@9/icons/looker.svg" style="filter: invert(36%) sepia(98%) saturate(2000%) hue-rotate(180deg) brightness(120%) contrast(120%);">
-    <!-- Tableau branco com vermelho -->
-    <img align="center" alt="Tableau" height="30" width="40" src="https://cdn.jsdelivr.net/npm/simple-icons@9/icons/tableau.svg" style="filter: invert(100%) sepia(100%) saturate(1000%) hue-rotate(0deg) brightness(100%) contrast(100%); background-color:red; border-radius:5px;">
+    <img align="center" alt="Python" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" style="filter: drop-shadow(0 0 5px #00ff00);">
+    <!-- Power BI (amarelo neon) -->
+    <img align="center" alt="Power BI" height="40" width="40" src="https://cdn.jsdelivr.net/npm/simple-icons@9/icons/powerbi.svg" style="filter: drop-shadow(0 0 5px #ffff00);">
+    <!-- Fabric (verde neon) -->
+    <img align="center" alt="Microsoft Fabric" height="40" width="40" src="https://cdn.jsdelivr.net/npm/simple-icons@9/icons/microsoft.svg" style="filter: drop-shadow(0 0 5px #00ff00);">
+    <!-- Looker (azul neon) -->
+    <img align="center" alt="Looker" height="40" width="40" src="https://cdn.jsdelivr.net/npm/simple-icons@9/icons/looker.svg" style="filter: drop-shadow(0 0 5px #00ffff);">
+    <!-- Tableau (branco com vermelho neon) -->
+    <img align="center" alt="Tableau" height="40" width="40" src="https://cdn.jsdelivr.net/npm/simple-icons@9/icons/tableau.svg" style="filter: drop-shadow(0 0 5px #ff0000) invert(100%); background-color:red; border-radius:5px;">
     <!-- R -->
-    <img align="center" alt="R" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/r/r-original.svg">
+    <img align="center" alt="R" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/r/r-original.svg" style="filter: drop-shadow(0 0 5px #00ffff);">
     <!-- JavaScript -->
-    <img align="center" alt="JavaScript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+    <img align="center" alt="JavaScript" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg" style="filter: drop-shadow(0 0 5px #ffff00);">
     <!-- HTML -->
-    <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+    <img align="center" alt="HTML" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" style="filter: drop-shadow(0 0 5px #ff4500);">
     <!-- CSS -->
-    <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+    <img align="center" alt="CSS" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" style="filter: drop-shadow(0 0 5px #00ffff);">
   </div>
 
   <!-- Redes sociais -->
@@ -45,10 +45,9 @@
     <a href="mailto:paulolemos2791@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white"></a>
   </div>
 
-  <!-- Snake animation -->
-  <div align="center"><br>
-    ![Snake animation](https://github.com/danielbped/danielbped/blob/output/github-contribution-grid-snake.svg)
-  </div>
+  <!-- Snake animation corrigida -->
+  <br>
+  ![Snake animation](https://github.com/danielbped/danielbped/blob/output/github-contribution-grid-snake.svg)
 
   <div align="center">
     <p>Feito com :heart: e JavaScript. 😎</p>
